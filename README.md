@@ -1,5 +1,13 @@
 # MonkeyType Auto-Typer
 
+
+
+
+https://github.com/user-attachments/assets/4f333d1b-d0a4-4dec-87a0-c9ff88ab3cb9
+
+
+
+
 A Node.js automation script that types automatically on [MonkeyType](https://monkeytype.com/) using Puppeteer. This bot can help with testing or demonstrating typing functionality on the MonkeyType platform.
 
 ## Features
